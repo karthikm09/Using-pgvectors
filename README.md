@@ -1,4 +1,4 @@
-# Using-pgvectors
+# Using PGvectors
 How to leverage the power of PgVectors and data manipulation using PostgreSQL
 
 ## (Embedding and PGVector Loading)
